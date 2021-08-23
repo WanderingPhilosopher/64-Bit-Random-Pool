@@ -93,6 +93,8 @@ is pointed at it that determines progress. That pool has 134,217,728 ranges to s
 Where as this pool will be in the actual range the private key lies in, every x amount of days, depending on hashing power pointed at
 the pool.
 
+For now, this is just open to Windows users with Nvidia GPUs. Once I can figure out/precompile for Linux users, I will post.
+
 I am sure I will add to or edit this as things change.
 
 I have ran 2 days of tests with the server and client program without a hitch, but that was with limited GPUs running. So if 
