@@ -1,4 +1,5 @@
 # 64-Bit-Random-Pool
+Marking this as archive. Visit new link for new pool: https://github.com/WanderingPhilosopher/64-Bit-Random-Pool-2
 Two programs for joining the 64 bit random pool, part of the BTC challenge.
 
 
